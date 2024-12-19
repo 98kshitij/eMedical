@@ -48,20 +48,4 @@ If you want to access the app from outside your OpenShift installation, you have
 oc expose springboot-sample-app --hostname=www.example.com
 ```
 
-<img src="./bioMedical/img/1.png" >
-
-# User Panel :
-
-<img src="./bioMedical/img/2.png" >
-<img src="./bioMedical/img/3.png" >
-<img src="./bioMedical/img/4.png" >
-<img src="./bioMedical/img/5.png" >
-<img src="./bioMedical/img/6.png" >
-<img src="./bioMedical/img/7.png" >
-<img src="./bioMedical/img/8.png" >
-<img src="./bioMedical/img/9.png" >
-<img src="./bioMedical/img/10.png" >
-<img src="./bioMedical/img/11.png" >
-<img src="./bioMedical/img/12.png" >
-```
 Released under the Apache License 2.0. See the [LICENSE](https://github.com/codecentric/springboot-sample-app/blob/master/LICENSE) file.
